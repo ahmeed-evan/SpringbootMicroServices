@@ -8,6 +8,7 @@ public class Topic {
 
     @Id
     private String topicId;
+
     private String topicName, topicDescription;
 
     public String getTopicId() {
